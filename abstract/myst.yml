@@ -1,35 +1,35 @@
 version: 1
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2023-xu-etal-agu
+  title: Leveraging Convolutional Neural Networks for implicit regularization in DC resistivity inversions
+  description: Talk presented in session NS33C-07
   authors:
-    # - name: AUTHOR 1
-    #   email: EMAIL
-    #   corresponding: true
-    #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
+    - name: Anran Xu
+      email: anranxu@student.ubc.ca
+      corresponding: true
+      orcid: 0009-0001-9731-377X
+      affiliation:
+        id: ubc
+        name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      corresponding: true
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
+    - name:  John Weis
+      affiliation: ubc
+      email: jweis@eoas.ubc.ca
+      orcid: 0009-0003-6820-064X
   # banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
+    title: AGU Fall Meeting
+    url: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1443596
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  # date: DATE OF PRESENTATION
+  date: December 13, 2023
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
@@ -44,10 +44,10 @@ project:
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
-    # - title: slides
-    #   url: presentation/SLIDES-NAME.pdf
-    #   static: true
+    - title: video
+      url: presentation/AnranXu_AGU23.mp4
+      static: true
+    - title: slides
+      url: presentation/AnranXu_AGU23.pdf
+      static: true
   # domains: []

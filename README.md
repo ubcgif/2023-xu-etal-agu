@@ -1,2 +1,2 @@
-# template-repository-conference
-template repository for conference proceedings
+# Leveraging Convolutional Neural Networks for implicit regularization in DC resistivity inversions
+
