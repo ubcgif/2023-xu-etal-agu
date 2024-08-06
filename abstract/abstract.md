@@ -6,4 +6,4 @@ abstract: |
 --- 
 ![2023-anran-etal-agu-poster](presentation/2023-anran-etal-agu-poster.jpg)
 
-[AGU23](https://agu23.ipostersessions.com/Default.aspx?s=C6-F6-87-20-DE-67-43-79-FD-E2-69-3E-7C-5A-FA-EF)
+[AGU23 e-poster](https://agu23.ipostersessions.com/Default.aspx?s=C6-F6-87-20-DE-67-43-79-FD-E2-69-3E-7C-5A-FA-EF)
