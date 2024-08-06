@@ -44,10 +44,10 @@ project:
 site:
   template: article-theme
   actions:
-    - title: video
+    - title: Video
       url: presentation/AnranXu_AGU23.mp4
       static: true
-    - title: slides
+    - title: Slides
       url: presentation/AnranXu_AGU23.pdf
       static: true
   # domains: []
